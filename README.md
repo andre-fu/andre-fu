@@ -2,7 +2,7 @@
 My name is Andre, I'm a 3rd year Engineering Science student at the Universiy of Toronto, specalizing in Machine Intelligence. 
 - 🔭 I’m currently working at Microsoft on the Knowledge & Experiences Team at Bing
 - 🤖 I'll be working on applying machine learning to health record data in the future
-- 🌱 I’m currently learning about applying deep learning to compuational robotics
+- 🌱 I’m currently learning about endowing robotics with autonomous behavior
 
 <!--
 **andre-fu/andre-fu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
