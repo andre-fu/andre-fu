@@ -4,7 +4,7 @@ My name is Andre, I'm a 3rd year Engineering Science student at the Universiy of
 - 💻 I've interned at Interac and am an incoming SWE intern at Microsoft 
 - 📧 Feel free to reach out to me through [email!](mailto:andre.fu@mail.utoronto.ca)
 
-Please check out my [personal webiste](https://andrefu.ca) or read some of my writing at [my blog](https://blog.andrefu.ca). Don't forget to subscribe for blog updates!
+Please check out my [personal website](https://andrefu.ca) or read some of my writing at [my blog](https://blog.andrefu.ca). Don't forget to subscribe for blog updates!
 
 <!--
 **andre-fu/andre-fu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
