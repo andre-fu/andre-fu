@@ -1,7 +1,8 @@
 ### Hi there 👋
 My name is Andre, I'm a 3rd year Engineering Science student at the Universiy of Toronto, specalizing in Machine Intelligence. 
-- 📸 I'm working on optimizing CNNs
-- 💻 I used to intern at Microsoft on the Knowledge & Experiences Team at Bing
+- 📸 I'm researching CNN meta-learning optimization techniques
+- 💻 I've interned at Interac and am an incoming SWE intern at Microsoft 
+- 📧 Feel free to reach out to me through [email!](mailto:andre.fu@mail.utoronto.ca)
 
 Please check out my [personal webiste](https://andrefu.ca) or read some of my writing at [my blog](https://blog.andrefu.ca). Don't forget to subscribe for blog updates!
 
