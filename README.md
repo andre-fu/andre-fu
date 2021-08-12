@@ -1,7 +1,7 @@
 ### Hey! 👋
-My name is Andre, I'm a 3rd year Engineering Science student at the Universiy of Toronto, specalizing in Machine Intelligence. 
+My name is Andre, I'm a 4th year Engineering Science student at the Universiy of Toronto, specalizing in Machine Intelligence. 
 - 📸 I'm researching CNN meta-learning optimization techniques with the DSP lab at UofT
-- 💻 I've interned at Interac and am an incoming SWE intern at Microsoft 
+- 💻 I've interned at Microsoft as a SWE & PM
 - 📧 Feel free to reach out to me through [email!](mailto:andre.fu@mail.utoronto.ca)
 
 Please check out my [personal website](https://andrefu.ca) or read some of my writing at [my blog](https://blog.andrefu.ca). Don't forget to subscribe for blog updates!
