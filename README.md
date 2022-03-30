@@ -1,10 +1,9 @@
 ### Hey! 👋
-My name is Andre, I'm a 4th year Engineering Science student at the Universiy of Toronto, specalizing in Machine Intelligence. 
-- 📸 I'm researching CNN meta-learning optimization techniques with the DSP lab at UofT
-- 💻 I've interned at Microsoft as a SWE & PM
-- 📧 Feel free to reach out to me through [email!](mailto:andre.fu@mail.utoronto.ca)
+My name is Andre, I'm finishing up my engineering degree at UofT. I'm interested in disitributed machine learning (federated learning), computational efficicency and climate change solutions. Looking to collaborate on interesting deep learning problems or fast one-day builds!
 
-Please check out my [personal website](https://andrefu.ca) or read some of my writing at [my blog](https://blog.andrefu.ca). Don't forget to subscribe for blog updates!
+📧 Feel free to reach out to me through [email!](mailto:andrefu.af@hotmail.com)
+
+Please check out my [personal website](https://andrefu.ca) or read some of my writing at [my blog](https://blog.andrefu.ca)
 
 <!--
 **andre-fu/andre-fu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
