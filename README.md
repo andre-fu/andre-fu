@@ -1,5 +1,5 @@
 ### Hey! 👋
-My name is Andre, I'm finishing up my engineering degree at UofT. I'm interested in disitributed machine learning (federated learning), computational efficicency and climate change solutions. Looking to collaborate on interesting deep learning problems or fast one-day builds!
+My name is Andre, I'm an engineer working on connecting viewers to their favourite streamers at Twitch. Looking to collaborate on interesting deep learning problems or fast one-day builds!
 
 📧 Feel free to reach out to me through [email!](mailto:andrefu.af@hotmail.com)
 
